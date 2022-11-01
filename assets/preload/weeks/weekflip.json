@@ -1,0 +1,68 @@
+{
+	"songs": [
+		[
+			"Flippy Roll",
+			"fliqpy",
+			[
+				0,
+				193,
+				0
+			]
+		],
+		[
+			"Happy Tree Land",
+			"fliqpy",
+			[
+				0,
+				193,
+				20
+			]
+		],
+		[
+			"Massacre",
+			"fliqpy",
+			[
+				0,
+				193,
+				20
+			]
+		],
+		[
+			"Flippin Out",
+			"fliqpy-crazy",
+			[
+				255,
+				255,
+				0
+			]
+		],
+		[
+			"Unflipped Out",
+			"flippy",
+			[
+				0,
+				193,
+				20
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "bruh",
+	"difficulties": "Hard, Unfair",
+	"weekCharacters": [
+		"",
+		"flippysign",
+		""
+	],
+	"storyName": "PTSD",
+	"weekName": "week1",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

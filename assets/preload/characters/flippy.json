@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				56,
+				7
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Pico Note Right0"
+		},
+		{
+			"offsets": [
+				-81,
+				-2
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Pico NOTE LEFT0"
+		},
+		{
+			"offsets": [
+				-41,
+				34
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "pico Up note0"
+		},
+		{
+			"offsets": [
+				202,
+				-13
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Pico Down Note0"
+		},
+		{
+			"offsets": [
+				1,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Pico Idle Dance"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Flippy",
+	"position": [
+		0,
+		300
+	],
+	"healthicon": "flippy",
+	"flip_x": true,
+	"healthbar_colors": [
+		89,
+		186,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "FliqpyBLOOD Idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				9,
+				48
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "FliqpyBLOOD Up"
+		},
+		{
+			"offsets": [
+				69,
+				16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "FliqpyBLOOD Note Right"
+		},
+		{
+			"offsets": [
+				12,
+				8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "FliqpyBLOOD NOTE LEFT"
+		},
+		{
+			"offsets": [
+				-36,
+				-73
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "FliqpyBLOOD Down Note"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Fliqpy-Crazy",
+	"position": [
+		50,
+		320
+	],
+	"healthicon": "fliqpy",
+	"flip_x": true,
+	"healthbar_colors": [
+		89,
+		186,
+		0
+	],
+	"camera_position": [
+		30,
+		20
+	],
+	"sing_duration": 6.99999999999999,
+	"scale": 1
+}
